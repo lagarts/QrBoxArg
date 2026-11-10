@@ -11,12 +11,12 @@
 | Servicio | Estado | Detalle |
 |---|---|---|
 | Directorio de trabajo | ✅ Vacío | `QrBoxArg` sin archivos. No hay riesgo de sobrescritura |
-| GitHub | ✅ Sesión activa | Cuenta `lagarts` (activa), `covacapp2-dev` (disponible). Sin repos creados |
+| GitHub | ✅ Sesión activa | Cuenta `lagarts` (activa), `covacapp2-dev` (disponible). **Repo creada: `lagarts/QrBoxArg` (pública, branch `main`)** |
 | Supabase CLI | ❌ Sin sesión | `Invalid access token`. Requiere `supabase login` antes de crear proyecto |
 | Vercel | ✅ Sesión activa | Team `sergios-projects-f010a49b`. Proyectos existentes: tecnocovac, stock-safe, intermedio, kiosko-go, barberturnos, alarma-bull, restova, covacweb, intermedio-lovat. **No hay proyecto QrBoxArg** |
 | Tooling local | ✅ | git 2.52.0 / gh 2.95.0 / supabase 2.114.0 / vercel 62.2.0 / node 24.13.0 / npm 11.6.2 |
 
-**Pendiente de aprobación:** elegir cuenta GitHub, crear repo, crear proyecto Supabase, crear proyecto Vercel.
+**Pendiente:** crear proyecto Supabase (cuenta `aylenmaldonado1993@gmail.com`, sin acceso desde CLI) y proyecto Vercel `qrboxarg`.
 
 ---
 
